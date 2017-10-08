@@ -22,10 +22,10 @@ Dozent: Prof. Dr. Swaran Sandhu, Hochschule der Medien Stuttgart
 15. Zusammenfassung und Ausblick
 
 
-## Woche 1: Einführung
+### Woche 1: Einführung
 * Willkommen an der HdM
 * Lernziele und Workload der Veranstaltung
-* Lerntagebuch und Lernagentur
+* Lerntagebuch und Lernagentur, Fallstudie
 * Moodle, Webmail, Bibliothek
 * Mindmap Public Relations
 
@@ -37,7 +37,8 @@ Dozent: Prof. Dr. Swaran Sandhu, Hochschule der Medien Stuttgart
 *Literatur für Woche 2*: Kapitel 6.2 und 6.3 aus Röttger, Kobusch & Preusse (2018)
 
 
-## Woche 2: Was machen PR-Menschen eigentlich? (Berufsfeld PR)
+### Woche 2: Was machen PR-Menschen eigentlich? (Berufsfeld PR)
+* Lektüre: Kapitel 6.2 und 6.3 aus Röttger, Kobusch & Preusse (2018)
 * Stellenanzeigen als Indikator für Kompetenzen
 * Kompetenzprofil PR
 * Berufsrollenkonzepte
@@ -48,14 +49,36 @@ Dozent: Prof. Dr. Swaran Sandhu, Hochschule der Medien Stuttgart
 *Aufgabe für Woche 3:* Reflexion über Persönlichkeitstest und Lerntagebuch
 Bitte führen Sie den Persönlichkeitstest (16 Personalities)[https://www.16personalities.com/de] durch und diskutieren das Ergebnis mit Freunden, Bekannten oder Familien. Reflektieren Sie dann über das Kompetenzprofil von letzter Woche bzw. Ihren Berufswunsch in ihrem Lerntagebuch.   
 
+### Woche 3: Wie unterscheidet sich PR von Werbung, Marketing, Journalismus und Propaganda? (Definitionen)
+* Lektüre: Kapitel 1.1.3 aus Röttger, Kobusch & Preusse (2018)
+* Selbstverständnis der Disziplinen
+* Konvergenz und Differenzierungen
+* Systematische Abgrenzungen
 
-## Woche 3: Wie unterscheidet sich PR von Werbung, Marketing, Journalismus und Propaganda? (Definitionen)
-*Klassische Studien*
+*Literatur für Woche 4:* Kapitel 2.1 sowie 4.1 bis 4.2 aus Röttger, Kobusch & Preusse (2018)
 
 
-3. Wie unterscheidet sich PR von Werbung, Marketing, Journalismus und Propaganda? (Definitionen)
-4. Warum betreiben Organisationen PR? (Rahmenbedingungen und Leitgrößen Vertrauen, Image, Reputation)
-5. Für wen machen Organisationen PR? (Zielgruppen vs. Stakeholder)
+### Woche 4: Warum betreiben Organisationen PR? Rahmenbedinungen und Leitgrößen der PR
+* Lektüre: Kapitel 2.1 sowie 4.1 bis 4.2 aus Röttger, Kobusch & Preusse (2018)
+* Rahmenbedingungen für PR: Medialisierung, Globalisierung & Digitalisierung
+* Vertrauen und Glaubwürdigkeit
+* Image
+* Reputation
+
+*Literatur für Woche 5:* Kapitel 2.2.6 aus Röttger, Kobusch & Preusse (2018)
+
+
+### Woche 5: Für wen machen Organisationen PR? (Zielgruppen vs. Stakeholder)
+* Lektüre: Kapitel 2.2.6 aus Röttger, Kobusch & Preusse (2018)
+* Rahmenbedingungen für PR: Medialisierung, Globalisierung & Digitalisierung
+* Vertrauen und Glaubwürdigkeit
+* Image
+* Reputation
+
+*Literatur für Woche 5:* Kapitel 2.2.6 aus Röttger, Kobusch & Preusse (2018)
+
+
+
 6. Wie plant und erreicht man PR-Ziele? (PR-Konzeption und Strategie) 
 
 
